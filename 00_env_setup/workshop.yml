@@ -1,0 +1,40 @@
+name: workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pymc=5.5
+  - jupyter-cache=0.5
+  - black=20
+  - ipython=8.7
+  - jedi=0.18
+  - jupyter=1.0
+  - jupyterlab=3.1
+  - lxml=4.6
+  - markdown2=2.4
+  - matplotlib=3.6
+  - nb_black=1.0
+  - nb_conda=2.2
+  - nbconvert=7.2
+  - notebook=6.4
+  - numpy=1.24
+  - pandas=1.5
+  - pillow=9.5
+  - pip=22
+  - pytest-notebook=0.6
+  - pyyaml=6.0
+  - requests=2.28
+  - scikit-learn=1.2
+  - scipy=1.9
+  - seaborn=0.11
+  - statsmodels=0.13
+  - tabulate=0.9
+  - tqdm=4
+  - xlrd=2
+  - pip:
+    - shinylive
+    - dataframe_image
+    - markdown
+    - missingno
+    - nbval
