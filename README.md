@@ -14,30 +14,30 @@ Make sure you have the packages installed that are listed in the **00_env_setup*
 
 ### Introduction
 
-![Harvard Business Review](https://hbr.org/2017/06/a-refresher-on-ab-testing)
+[Harvard Business Review](https://hbr.org/2017/06/a-refresher-on-ab-testing)
 
-![Literatur Review](https://aurimas.eu/blog/2023/01/getting-to-decisions-faster-in-a-b-tests-part-1-literature-review/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_423)
+[Literatur Review](https://aurimas.eu/blog/2023/01/getting-to-decisions-faster-in-a-b-tests-part-1-literature-review/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_423)
 
 ### Bayesian A/B Testing with Python
 
-![PYMC](https://www.pymc.io/projects/examples/en/latest/case_studies/bayesian_ab_testing_introduction.html)
+[PYMC](https://www.pymc.io/projects/examples/en/latest/case_studies/bayesian_ab_testing_introduction.html)
 
-![Another Example](http://www.claudiobellei.com/2017/11/02/bayesian-AB-testing/)
+[Another Example](http://www.claudiobellei.com/2017/11/02/bayesian-AB-testing/)
 
-![Bayesian A/B Testing at VWO](https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf)
+[Bayesian A/B Testing at VWO](https://vwo.com/downloads/VWO_SmartStats_technical_whitepaper.pdf)
 
 
-![Practical Challenges](https://aurimas.eu/blog/2023/02/getting-faster-to-decisions-in-a-b-tests-part-2-misinterpretations-and-practical-challenges-of-classical-hypothesis-testing/)
+[Practical Challenges](https://aurimas.eu/blog/2023/02/getting-faster-to-decisions-in-a-b-tests-part-2-misinterpretations-and-practical-challenges-of-classical-hypothesis-testing/)
 
 ### Online Courses
 
-![Coursera: Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
+[Coursera: Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 
-![PYMC Labs](https://www.youtube.com/@PyMCLabs)
+[PYMC Labs](https://www.youtube.com/@PyMCLabs)
 
 ### Blogs
 
-![Blog: Chris Stucchio](https://www.chrisstucchio.com)
+[Blog: Chris Stucchio](https://www.chrisstucchio.com)
 
-![Blog: Aurimas](https://aurimas.eu/blog/)
+[Blog: Aurimas](https://aurimas.eu/blog/)
 
