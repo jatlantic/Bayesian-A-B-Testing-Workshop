@@ -16,7 +16,7 @@ Make sure you have the packages installed that are listed in the **00_env_setup*
 
 [Harvard Business Review](https://hbr.org/2017/06/a-refresher-on-ab-testing)
 
-[Literatur Review](https://aurimas.eu/blog/2023/01/getting-to-decisions-faster-in-a-b-tests-part-1-literature-review/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_423)
+[Literature Review on Bayesian A/B Testing](https://aurimas.eu/blog/2023/01/getting-to-decisions-faster-in-a-b-tests-part-1-literature-review/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_423)
 
 ### Bayesian A/B Testing with Python
 
