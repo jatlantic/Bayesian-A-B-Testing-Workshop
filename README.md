@@ -8,14 +8,10 @@ This repository contains the publicly available material for the Bayesian A/B te
 
 # Getting Started
 
-## Locally
-
-Make sure you have the packages installed that are listed in the **00_env_setup** folder. Assuming you have conda or anaconda this can be done by running `conda env create -n workshop --file workshop.yml` from the terminal in the **00_env_setup** folder.
+Make sure you have the packages installed that are listed in the **00_env_setup** folder. Assuming you have conda or anaconda, this can be done by running `conda env create -n workshop --file workshop.yml` from the terminal in the **00_env_setup** folder.
 Then run workshop.ipynb which is in the same folder to make sure everything works.
 
-## Using Google Colab
-
-
+Now you can go through the exercises in the folder `02_notebooks`.
 
 ## Literature
 
